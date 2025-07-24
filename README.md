@@ -17,7 +17,8 @@ I'm a 2nd-year Computer Science student quietly building small things that help 
 
 ### 💡 Some of my projects:
 - **Interactive Space Game**  
-  A learning game that teaches the solar system through visual patterns and user interaction using Python + Tkinter.
+  A learning game that teaches the solar system through visual patterns and user interaction using Python + Tkinter
+  Check it out here : [https://github.com/Asmitagorti/planet_game]
 
 - **Competitive Coding Logs**  
   Over 150+ problems solved on [LeetCode](https://leetcode.com/u/Asmita_Gorti/) and 100+ on [CodeChef](https://www.codechef.com/users/asmita_gorti)
