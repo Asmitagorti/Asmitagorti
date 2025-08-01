@@ -5,7 +5,7 @@
 I'm a 2nd-year Computer Science student quietly building small things that help me think, learn, and create. I enjoy problem-solving, especially through competitive coding and projects that mix logic with creativity.
 
 ### My resume:
-📄 You can view my resume[https://drive.google.com/file/d/1IlMWEsFMtUI8FnP5Vwvsj4jL8ZnpwZ1O/view?usp=sharing]
+📄 You can view my resume here :[https://drive.google.com/file/d/1IlMWEsFMtUI8FnP5Vwvsj4jL8ZnpwZ1O/view?usp=sharing]
 
 ### 🌱 I’m currently learning:
 - Python, C++, Git, and Data Structures
