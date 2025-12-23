@@ -5,7 +5,11 @@
 I'm a 2nd-year Computer Science student quietly building small things that help me think, learn, and create. I enjoy problem-solving, especially through competitive coding and projects that mix logic with creativity.
 
 ### My resume:
-📄 You can view my resume here :[https://drive.google.com/file/d/1IlMWEsFMtUI8FnP5Vwvsj4jL8ZnpwZ1O/view?usp=sharing]
+📄 You can view my resume here :[https://drive.google.com/file/d/1qrIgZeh_7cyXPWeiOBv0_480xp5Buo27/view?usp=sharing]
+
+### Internship:
+I worked on the project titled “Study of Floating-Point Precision (FP64, FP32, FP16) on CPU and GPU using HIP” 
+from 04ᵗʰ December, 2025 to 18ᵗʰ December, 2025 at VECC Kolkata ( variable energy cyclotron centre )
 
 ### 🌱 I’m currently learning:
 - Python, C++, Git, and Data Structures
@@ -13,7 +17,7 @@ I'm a 2nd-year Computer Science student quietly building small things that help 
 
 ### 🔭 I’m currently working on:
 - Improving my DSA skills through regular LeetCode and CodeChef practice
-- Polishing a Python-based planetary game I made with Tkinter
+- Implementing Armored broswer ( a secure version for websites ) for hackathons as a team
 
 ### 💡 Some of my projects:
 - **Interactive Space Game**  
