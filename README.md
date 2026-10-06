@@ -2,7 +2,7 @@
 
 > *"Exploring where code takes me."*
 
-I'm a 2nd-year Computer Science student quietly building small things that help me think, learn, and create. I enjoy problem-solving, especially through competitive coding and projects that mix logic with creativity.
+I'm a 3rd-year Computer Science student quietly building small things that help me think, learn, and create. I enjoy problem-solving, especially through competitive coding and projects that mix logic with creativity.
 
 ### My resume:
 📄 You can view my resume here :[https://drive.google.com/file/d/1_bNJU9vxlVgK89KpYK-nQLpHt46HSO2s/view?usp=sharing]
